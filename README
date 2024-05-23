@@ -1,0 +1,47 @@
+**Perceptron Models and Exercises**
+
+This repository contains resources on Perceptron models, covering the basics as well as additional exercises for practice. Feel free to explore, utilize, and contribute to this repository.
+
+### Perceptron Basics
+
+The Perceptron is a fundamental building block in machine learning, particularly in the realm of binary classification. It serves as a simple model for understanding the principles of neural networks.
+
+In this repository, you'll find materials explaining the core concepts of Perceptrons, including:
+
+- Perceptron architecture and components
+- Perceptron learning algorithm
+- Perceptron convergence theorem
+- Applications and limitations of Perceptrons
+
+### Example Code
+
+We provide example code in Python for implementing Perceptrons for specific logic functions. Currently, the repository includes implementations for the following logic functions:
+
+1. **OR Perceptron**: This Perceptron is trained to perform the logical OR operation.
+
+2. **NAND Perceptron**: This Perceptron is trained to perform the logical NAND operation.
+
+You can find the code for each Perceptron in separate files within this repository.
+
+### Additional Exercises
+
+To deepen your understanding of Perceptrons and reinforce your learning, we offer a set of exercises covering various aspects of Perceptron models. These exercises include:
+
+- Implementing Perceptron training algorithm from scratch
+- Experimenting with different activation functions
+- Extending Perceptrons to handle multi-class classification
+- Exploring Perceptron convergence properties through experimentation
+
+### Usage
+
+Feel free to clone this repository and use the materials for self-study, academic purposes, or any other non-commercial use. You are welcome to modify the code and adapt it to your specific needs.
+
+### Contributions
+
+Contributions to this repository are highly encouraged. Whether you want to add more exercises, improve existing materials, or fix any issues, your contributions are valuable in enhancing the learning experience for others. Simply fork the repository, make your changes, and submit a pull request.
+
+### License
+
+All content in this repository is provided under the MIT License, allowing for open and unrestricted use. You are free to use, modify, and distribute the materials as per the terms of the license.
+
+**Happy learning!**
