@@ -9,9 +9,6 @@ def perceptron(inputs,weights,treshold):
     inputs.append(result_first_step)
     weights.append(new_weight);
     
-    #print(result_first_step)
-    #print(inputs)
-    
     result_second_step = Unit_Function(inputs,weights,treshold)
     result_perceptron = result_second_step
     
@@ -25,14 +22,6 @@ def threshold_function(input,treshold):
         
     return result
 
-"""
-def NOT_Function(result_and):
-    if (result_and == 1):
-        result_not = 0
-    else: 
-        result_not = 1
-    return result_not 
-"""
 def Unit_Function(inputs,weights,treshold):
     # weighted multiply
     summarray = np.multiply(inputs,weights)
